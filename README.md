@@ -1,2 +1,2 @@
 # Conversion_cplusplus
-Conversion of base imperial measurements to metric
+Conversion of base imperial measurements to metric units of measure
